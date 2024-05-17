@@ -1,0 +1,159 @@
+﻿  ConfigCacheIni.cpp
+D:\Graphics\DemoUE\DemoUE\Core\Public\Misc\ConfigCacheIni.h(67,112): error C2061: 语法错误: 标识符“TMap”
+D:\Graphics\DemoUE\DemoUE\Core\Public\Misc\ConfigCacheIni.h(87,110): error C2061: 语法错误: 标识符“TMap”
+D:\Graphics\DemoUE\DemoUE\Core\Public\Misc\ConfigCacheIni.h(96,22): error C2143: 语法错误: 缺少“;”(在“*”的前面)
+D:\Graphics\DemoUE\DemoUE\Core\Public\Misc\ConfigCacheIni.h(96,22): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+D:\Graphics\DemoUE\DemoUE\Core\Public\Misc\ConfigCacheIni.h(96,63): error C2238: 意外的标记位于“;”之前
+D:\Graphics\DemoUE\DemoUE\Core\Public\Misc\ConfigCacheIni.h(105,22): error C2143: 语法错误: 缺少“;”(在“*”的前面)
+D:\Graphics\DemoUE\DemoUE\Core\Public\Misc\ConfigCacheIni.h(105,22): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+D:\Graphics\DemoUE\DemoUE\Core\Public\Misc\ConfigCacheIni.h(105,55): error C2238: 意外的标记位于“;”之前
+D:\Graphics\DemoUE\DemoUE\Core\Public\Misc\ConfigCacheIni.h(112,52): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+D:\Graphics\DemoUE\DemoUE\Core\Public\Misc\ConfigCacheIni.h(112,52): error C2143: 语法错误: 缺少“,”(在“*”的前面)
+D:\Graphics\DemoUE\DemoUE\Core\Public\Misc\ConfigCacheIni.h(114,16): error C2059: 语法错误:“常数”
+D:\Graphics\DemoUE\DemoUE\Core\Public\Misc\ConfigCacheIni.h(115,12): error C3646: “FConfigFile”: 未知重写说明符
+D:\Graphics\DemoUE\DemoUE\Core\Public\Misc\ConfigCacheIni.h(115,23): error C2143: 语法错误: 缺少“;”(在“*”的前面)
+D:\Graphics\DemoUE\DemoUE\Core\Public\Misc\ConfigCacheIni.h(115,23): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+D:\Graphics\DemoUE\DemoUE\Core\Public\Misc\ConfigCacheIni.h(115,23): warning C4183: “UE_DEPRECATED”: 缺少返回类型；假定为返回“int”的成员函数
+D:\Graphics\DemoUE\DemoUE\Core\Public\Misc\ConfigCacheIni.h(115,23): error C2059: 语法错误:“*”
+D:\Graphics\DemoUE\DemoUE\Core\Public\Misc\ConfigCacheIni.h(115,77): error C2238: 意外的标记位于“;”之前
+D:\Graphics\DemoUE\DemoUE\Core\Public\Misc\ConfigCacheIni.h(118,22): error C2143: 语法错误: 缺少“;”(在“*”的前面)
+D:\Graphics\DemoUE\DemoUE\Core\Public\Misc\ConfigCacheIni.h(118,22): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+D:\Graphics\DemoUE\DemoUE\Core\Public\Misc\ConfigCacheIni.h(118,66): error C2238: 意外的标记位于“;”之前
+D:\Graphics\DemoUE\DemoUE\Core\Public\Misc\ConfigCacheIni.h(120,13): error C2143: 语法错误: 缺少“;”(在“&”的前面)
+D:\Graphics\DemoUE\DemoUE\Core\Public\Misc\ConfigCacheIni.h(120,13): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+D:\Graphics\DemoUE\DemoUE\Core\Public\Misc\ConfigCacheIni.h(121,2): error C2334: “{”的前面有意外标记；跳过明显的函数体
+D:\Graphics\DemoUE\DemoUE\Core\Public\Misc\ConfigCacheIni.h(124,28): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+D:\Graphics\DemoUE\DemoUE\Core\Public\Misc\ConfigCacheIni.h(124,28): error C2143: 语法错误: 缺少“,”(在“&”的前面)
+D:\Graphics\DemoUE\DemoUE\Core\Public\Misc\ConfigCacheIni.h(129,17): error C2143: 语法错误: 缺少“;”(在“<”的前面)
+D:\Graphics\DemoUE\DemoUE\Core\Public\Misc\ConfigCacheIni.h(129,17): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+D:\Graphics\DemoUE\DemoUE\Core\Public\Misc\ConfigCacheIni.h(129,41): error C2238: 意外的标记位于“;”之前
+D:\Graphics\DemoUE\DemoUE\Core\Public\Misc\ConfigCacheIni.h(132,58): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+D:\Graphics\DemoUE\DemoUE\Core\Public\Misc\ConfigCacheIni.h(132,58): error C2143: 语法错误: 缺少“,”(在“&”的前面)
+D:\Graphics\DemoUE\DemoUE\Core\Public\Misc\ConfigCacheIni.h(134,38): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+D:\Graphics\DemoUE\DemoUE\Core\Public\Misc\ConfigCacheIni.h(134,38): error C2143: 语法错误: 缺少“,”(在“&”的前面)
+D:\Graphics\DemoUE\DemoUE\Core\Public\Misc\ConfigCacheIni.h(135,37): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+D:\Graphics\DemoUE\DemoUE\Core\Public\Misc\ConfigCacheIni.h(135,37): error C2143: 语法错误: 缺少“,”(在“&”的前面)
+D:\Graphics\DemoUE\DemoUE\Core\Public\Misc\ConfigCacheIni.h(136,40): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+D:\Graphics\DemoUE\DemoUE\Core\Public\Misc\ConfigCacheIni.h(136,40): error C2143: 语法错误: 缺少“,”(在“&”的前面)
+D:\Graphics\DemoUE\DemoUE\Core\Public\Misc\ConfigCacheIni.h(137,36): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+D:\Graphics\DemoUE\DemoUE\Core\Public\Misc\ConfigCacheIni.h(137,36): error C2143: 语法错误: 缺少“,”(在“&”的前面)
+D:\Graphics\DemoUE\DemoUE\Core\Public\Misc\ConfigCacheIni.h(139,66): error C2061: 语法错误: 标识符“FString”
+D:\Graphics\DemoUE\DemoUE\Core\Public\Misc\ConfigCacheIni.h(140,64): error C2061: 语法错误: 标识符“FText”
+D:\Graphics\DemoUE\DemoUE\Core\Public\Misc\ConfigCacheIni.h(141,49): error C2061: 语法错误: 标识符“TArray”
+D:\Graphics\DemoUE\DemoUE\Core\Public\Misc\ConfigCacheIni.h(142,68): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+D:\Graphics\DemoUE\DemoUE\Core\Public\Misc\ConfigCacheIni.h(142,68): error C2143: 语法错误: 缺少“,”(在“&”的前面)
+D:\Graphics\DemoUE\DemoUE\Core\Public\Misc\ConfigCacheIni.h(147,25): error C2143: 语法错误: 缺少“;”(在“*”的前面)
+D:\Graphics\DemoUE\DemoUE\Core\Public\Misc\ConfigCacheIni.h(147,25): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+D:\Graphics\DemoUE\DemoUE\Core\Public\Misc\ConfigCacheIni.h(147,127): error C2238: 意外的标记位于“;”之前
+D:\Graphics\DemoUE\DemoUE\Core\Public\Misc\ConfigCacheIni.h(148,99): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+D:\Graphics\DemoUE\DemoUE\Core\Public\Misc\ConfigCacheIni.h(148,99): error C2143: 语法错误: 缺少“,”(在“&”的前面)
+D:\Graphics\DemoUE\DemoUE\Core\Public\Misc\ConfigCacheIni.h(149,75): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+D:\Graphics\DemoUE\DemoUE\Core\Public\Misc\ConfigCacheIni.h(149,75): error C2143: 语法错误: 缺少“,”(在“&”的前面)
+D:\Graphics\DemoUE\DemoUE\Core\Public\Misc\ConfigCacheIni.h(150,79): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+D:\Graphics\DemoUE\DemoUE\Core\Public\Misc\ConfigCacheIni.h(150,79): error C2143: 语法错误: 缺少“,”(在“&”的前面)
+D:\Graphics\DemoUE\DemoUE\Core\Public\Misc\ConfigCacheIni.h(151,64): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+D:\Graphics\DemoUE\DemoUE\Core\Public\Misc\ConfigCacheIni.h(151,64): error C2143: 语法错误: 缺少“,”(在“&”的前面)
+D:\Graphics\DemoUE\DemoUE\Core\Public\Misc\ConfigCacheIni.h(152,85): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+D:\Graphics\DemoUE\DemoUE\Core\Public\Misc\ConfigCacheIni.h(152,85): error C2143: 语法错误: 缺少“,”(在“&”的前面)
+D:\Graphics\DemoUE\DemoUE\Core\Public\Misc\ConfigCacheIni.h(162,19): error C3646: “GetConfigFilename”: 未知重写说明符
+D:\Graphics\DemoUE\DemoUE\Core\Public\Misc\ConfigCacheIni.h(162,36): error C2059: 语法错误:“(”
+D:\Graphics\DemoUE\DemoUE\Core\Public\Misc\ConfigCacheIni.h(162,62): error C2238: 意外的标记位于“;”之前
+D:\Graphics\DemoUE\DemoUE\Core\Public\Misc\ConfigCacheIni.h(169,35): error C2061: 语法错误: 标识符“TArray”
+D:\Graphics\DemoUE\DemoUE\Core\Public\Misc\ConfigCacheIni.h(179,45): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+D:\Graphics\DemoUE\DemoUE\Core\Public\Misc\ConfigCacheIni.h(179,45): error C2143: 语法错误: 缺少“,”(在“&”的前面)
+D:\Graphics\DemoUE\DemoUE\Core\Public\Misc\ConfigCacheIni.h(191,56): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+D:\Graphics\DemoUE\DemoUE\Core\Public\Misc\ConfigCacheIni.h(191,56): error C2143: 语法错误: 缺少“,”(在“&”的前面)
+D:\Graphics\DemoUE\DemoUE\Core\Public\Misc\ConfigCacheIni.h(201,21): error C2061: 语法错误: 标识符“FOutputDevice”
+D:\Graphics\DemoUE\DemoUE\Core\Public\Misc\ConfigCacheIni.h(208,40): error C2061: 语法错误: 标识符“FOutputDevice”
+D:\Graphics\DemoUE\DemoUE\Core\Public\Misc\ConfigCacheIni.h(221,56): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+D:\Graphics\DemoUE\DemoUE\Core\Public\Misc\ConfigCacheIni.h(221,56): error C2143: 语法错误: 缺少“,”(在“&”的前面)
+D:\Graphics\DemoUE\DemoUE\Core\Public\Misc\ConfigCacheIni.h(224,19): error C3646: “GetStr”: 未知重写说明符
+D:\Graphics\DemoUE\DemoUE\Core\Public\Misc\ConfigCacheIni.h(225,2): error C2059: 语法错误:“(”
+D:\Graphics\DemoUE\DemoUE\Core\Public\Misc\ConfigCacheIni.h(229,3): error C2238: 意外的标记位于“;”之前
+D:\Graphics\DemoUE\DemoUE\Core\Public\Misc\ConfigCacheIni.h(235,16): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+D:\Graphics\DemoUE\DemoUE\Core\Public\Misc\ConfigCacheIni.h(235,16): error C2143: 语法错误: 缺少“,”(在“&”的前面)
+D:\Graphics\DemoUE\DemoUE\Core\Public\Misc\ConfigCacheIni.h(242,16): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+D:\Graphics\DemoUE\DemoUE\Core\Public\Misc\ConfigCacheIni.h(242,16): error C2143: 语法错误: 缺少“,”(在“&”的前面)
+D:\Graphics\DemoUE\DemoUE\Core\Public\Misc\ConfigCacheIni.h(249,16): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+D:\Graphics\DemoUE\DemoUE\Core\Public\Misc\ConfigCacheIni.h(249,16): error C2143: 语法错误: 缺少“,”(在“&”的前面)
+D:\Graphics\DemoUE\DemoUE\Core\Public\Misc\ConfigCacheIni.h(256,16): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+D:\Graphics\DemoUE\DemoUE\Core\Public\Misc\ConfigCacheIni.h(256,16): error C2143: 语法错误: 缺少“,”(在“&”的前面)
+D:\Graphics\DemoUE\DemoUE\Core\Public\Misc\ConfigCacheIni.h(263,16): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+D:\Graphics\DemoUE\DemoUE\Core\Public\Misc\ConfigCacheIni.h(263,16): error C2143: 语法错误: 缺少“,”(在“&”的前面)
+D:\Graphics\DemoUE\DemoUE\Core\Public\Misc\ConfigCacheIni.h(269,3): error C2061: 语法错误: 标识符“TArray”
+D:\Graphics\DemoUE\DemoUE\Core\Public\Misc\ConfigCacheIni.h(282,3): error C2061: 语法错误: 标识符“TArray”
+D:\Graphics\DemoUE\DemoUE\Core\Public\Misc\ConfigCacheIni.h(289,3): error C2061: 语法错误: 标识符“FColor”
+D:\Graphics\DemoUE\DemoUE\Core\Public\Misc\ConfigCacheIni.h(295,3): error C2061: 语法错误: 标识符“FVector2D”
+D:\Graphics\DemoUE\DemoUE\Core\Public\Misc\ConfigCacheIni.h(301,3): error C2061: 语法错误: 标识符“FVector”
+D:\Graphics\DemoUE\DemoUE\Core\Public\Misc\ConfigCacheIni.h(308,3): error C2061: 语法错误: 标识符“FVector4”
+D:\Graphics\DemoUE\DemoUE\Core\Public\Misc\ConfigCacheIni.h(315,3): error C2061: 语法错误: 标识符“FRotator”
+D:\Graphics\DemoUE\DemoUE\Core\Public\Misc\ConfigCacheIni.h(320,56): error C2061: 语法错误: 标识符“FString”
+D:\Graphics\DemoUE\DemoUE\Core\Public\Misc\ConfigCacheIni.h(324,56): error C2061: 语法错误: 标识符“FText”
+D:\Graphics\DemoUE\DemoUE\Core\Public\Misc\ConfigCacheIni.h(324,7): error C2535: “bool FConfigCacheIni::GetValue(const TCHAR *,const TCHAR *)”: 已经定义或声明成员函数
+D:\Graphics\DemoUE\DemoUE\Core\Public\Misc\ConfigCacheIni.h(320,7): message : 参见“FConfigCacheIni::GetValue”的声明
+D:\Graphics\DemoUE\DemoUE\Core\Public\Misc\ConfigCacheIni.h(328,83): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+D:\Graphics\DemoUE\DemoUE\Core\Public\Misc\ConfigCacheIni.h(328,83): error C2143: 语法错误: 缺少“,”(在“&”的前面)
+D:\Graphics\DemoUE\DemoUE\Core\Public\Misc\ConfigCacheIni.h(332,83): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+D:\Graphics\DemoUE\DemoUE\Core\Public\Misc\ConfigCacheIni.h(332,83): error C2143: 语法错误: 缺少“,”(在“&”的前面)
+D:\Graphics\DemoUE\DemoUE\Core\Public\Misc\ConfigCacheIni.h(336,82): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+D:\Graphics\DemoUE\DemoUE\Core\Public\Misc\ConfigCacheIni.h(336,82): error C2143: 语法错误: 缺少“,”(在“&”的前面)
+D:\Graphics\DemoUE\DemoUE\Core\Public\Misc\ConfigCacheIni.h(340,57): error C2061: 语法错误: 标识符“TArray”
+D:\Graphics\DemoUE\DemoUE\Core\Public\Misc\ConfigCacheIni.h(341,2): error C2556: “int32 FConfigCacheIni::GetValue(const TCHAR *,const TCHAR *)”: 重载函数与“bool FConfigCacheIni::GetValue(const TCHAR *,const TCHAR *)”只是在返回类型上不同
+D:\Graphics\DemoUE\DemoUE\Core\Public\Misc\ConfigCacheIni.h(320,7): message : 参见“FConfigCacheIni::GetValue”的声明
+D:\Graphics\DemoUE\DemoUE\Core\Public\Misc\ConfigCacheIni.h(340,8): error C2371: “FConfigCacheIni::GetValue”: 重定义；不同的基类型
+D:\Graphics\DemoUE\DemoUE\Core\Public\Misc\ConfigCacheIni.h(320,7): message : 参见“FConfigCacheIni::GetValue”的声明
+D:\Graphics\DemoUE\DemoUE\Core\Public\Misc\ConfigCacheIni.h(342,3): error C2059: 语法错误:“return”
+D:\Graphics\DemoUE\DemoUE\Core\Public\Misc\ConfigCacheIni.h(342,49): error C2238: 意外的标记位于“;”之前
+D:\Graphics\DemoUE\DemoUE\Core\Public\Misc\ConfigCacheIni.h(349,23): error C2377: “int32”: 重定义；typedef 不能由任何其他符号重载
+D:\Graphics\DemoUE\DemoUE\Core\Public\HAL\Platform.h(20,32): message : 参见“int32”的声明
+D:\Graphics\DemoUE\DemoUE\Core\Public\Misc\ConfigCacheIni.h(349,8): error C2146: 语法错误: 缺少“;”(在标识符“GetIntOrDefault”的前面)
+D:\Graphics\DemoUE\DemoUE\Core\Public\Misc\ConfigCacheIni.h(349,24): error C2059: 语法错误:“const”
+D:\Graphics\DemoUE\DemoUE\Core\Public\Misc\ConfigCacheIni.h(350,2): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+D:\Graphics\DemoUE\DemoUE\Core\Public\Misc\ConfigCacheIni.h(46,10): error C2065: “bIsReadyForUse”: 未声明的标识符
+D:\Graphics\DemoUE\DemoUE\Core\Public\Misc\ConfigCacheIni.h(126,10): error C2065: “OtherFiles”: 未声明的标识符
+D:\Graphics\DemoUE\DemoUE\Core\Public\Misc\ConfigCacheIni.h(126,29): error C2065: “Filename”: 未声明的标识符
+D:\Graphics\DemoUE\DemoUE\Core\Public\Misc\ConfigCacheIni.h(127,10): error C2065: “OtherFiles”: 未声明的标识符
+D:\Graphics\DemoUE\DemoUE\Core\Public\Misc\ConfigCacheIni.h(127,28): error C2065: “Filename”: 未声明的标识符
+D:\Graphics\DemoUE\DemoUE\Core\Public\Misc\ConfigCacheIni.h(326,32): error C2065: “Value”: 未声明的标识符
+D:\Graphics\DemoUE\DemoUE\Core\Public\Misc\ConfigCacheIni.h(326,39): error C2065: “Filename”: 未声明的标识符
+D:\Graphics\DemoUE\DemoUE\Core\Public\Misc\ConfigCacheIni.h(330,38): error C2065: “Filename”: 未声明的标识符
+D:\Graphics\DemoUE\DemoUE\Core\Public\Misc\ConfigCacheIni.h(334,40): error C2065: “Filename”: 未声明的标识符
+D:\Graphics\DemoUE\DemoUE\Core\Public\Misc\ConfigCacheIni.h(338,39): error C2065: “Filename”: 未声明的标识符
+D:\Graphics\DemoUE\DemoUE\Core\Public\Misc\ConfigCacheIni.h(350,2): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+D:\Graphics\DemoUE\DemoUE\Core\Public\Misc\ConfigCacheIni.h(355,105): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+D:\Graphics\DemoUE\DemoUE\Core\Public\Misc\ConfigCacheIni.h(355,105): error C2143: 语法错误: 缺少“,”(在“&”的前面)
+D:\Graphics\DemoUE\DemoUE\Core\Public\Misc\ConfigCacheIni.h(358,33): error C2065: “Filename”: 未声明的标识符
+D:\Graphics\DemoUE\DemoUE\Core\Public\Misc\ConfigCacheIni.h(358,3): error C3861: “GetFloat”: 找不到标识符
+D:\Graphics\DemoUE\DemoUE\Core\Public\Misc\ConfigCacheIni.h(361,102): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+D:\Graphics\DemoUE\DemoUE\Core\Public\Misc\ConfigCacheIni.h(361,102): error C2143: 语法错误: 缺少“,”(在“&”的前面)
+D:\Graphics\DemoUE\DemoUE\Core\Public\Misc\ConfigCacheIni.h(364,32): error C2065: “Filename”: 未声明的标识符
+D:\Graphics\DemoUE\DemoUE\Core\Public\Misc\ConfigCacheIni.h(364,3): error C3861: “GetBool”: 找不到标识符
+D:\Graphics\DemoUE\DemoUE\Core\Public\Misc\ConfigCacheIni.h(367,28): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+D:\Graphics\DemoUE\DemoUE\Core\Public\Misc\ConfigCacheIni.h(367,10): error C2146: 语法错误: 缺少“;”(在标识符“GetStringOrDefault”的前面)
+D:\Graphics\DemoUE\DemoUE\Core\Public\Misc\ConfigCacheIni.h(368,2): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+D:\Graphics\DemoUE\DemoUE\Core\Public\Misc\ConfigCacheIni.h(368,2): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+D:\Graphics\DemoUE\DemoUE\Core\Public\Misc\ConfigCacheIni.h(379,24): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+D:\Graphics\DemoUE\DemoUE\Core\Public\Misc\ConfigCacheIni.h(379,8): error C2146: 语法错误: 缺少“;”(在标识符“GetTextOrDefault”的前面)
+D:\Graphics\DemoUE\DemoUE\Core\Public\Misc\ConfigCacheIni.h(380,2): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+D:\Graphics\DemoUE\DemoUE\Core\Public\Misc\ConfigCacheIni.h(380,2): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+D:\Graphics\DemoUE\DemoUE\Core\Public\Misc\ConfigCacheIni.h(396,3): error C2061: 语法错误: 标识符“int32”
+D:\Graphics\DemoUE\DemoUE\Core\Public\Misc\ConfigCacheIni.h(404,16): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+D:\Graphics\DemoUE\DemoUE\Core\Public\Misc\ConfigCacheIni.h(404,16): error C2143: 语法错误: 缺少“,”(在“&”的前面)
+D:\Graphics\DemoUE\DemoUE\Core\Public\Misc\ConfigCacheIni.h(411,16): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+D:\Graphics\DemoUE\DemoUE\Core\Public\Misc\ConfigCacheIni.h(411,16): error C2143: 语法错误: 缺少“,”(在“&”的前面)
+D:\Graphics\DemoUE\DemoUE\Core\Public\Misc\ConfigCacheIni.h(418,16): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+D:\Graphics\DemoUE\DemoUE\Core\Public\Misc\ConfigCacheIni.h(418,16): error C2143: 语法错误: 缺少“,”(在“&”的前面)
+D:\Graphics\DemoUE\DemoUE\Core\Public\Misc\ConfigCacheIni.h(418,16): fatal  error C1003: 错误计数超过 100；正在停止编译
+  CoreGlobals.cpp
+D:\Graphics\DemoUE\DemoUE\Core\Private\Misc\CoreGlobals.cpp(3,16): error C2143: 语法错误: 缺少“;”(在“*”的前面)
+D:\Graphics\DemoUE\DemoUE\Core\Private\Misc\CoreGlobals.cpp(3,16): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+D:\Graphics\DemoUE\DemoUE\Core\Private\Misc\CoreGlobals.cpp(3,28): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+  CoreMisc.cpp
+D:\Graphics\DemoUE\DemoUE\Core\Private\Misc\CoreMisc.cpp(5,11): error C2065: “GIsRetrievingVTablePtr”: 未声明的标识符
+D:\Graphics\DemoUE\DemoUE\Core\Private\Misc\CoreMisc.cpp(5,35): error C2065: “LogCore”: 未声明的标识符
+D:\Graphics\DemoUE\DemoUE\Core\Private\Misc\CoreMisc.cpp(5,44): error C2065: “Fatal”: 未声明的标识符
+D:\Graphics\DemoUE\DemoUE\Core\Private\Misc\CoreMisc.cpp(5,51): error C3861: “TEXT”: 找不到标识符
+D:\Graphics\DemoUE\DemoUE\Core\Private\Misc\CoreMisc.cpp(5,2): error C3861: “UE_CLOG”: 找不到标识符
+  Shader.cpp
+D:\Graphics\DemoUE\DemoUE\RenderCore\Private\Shader.cpp(1,10): fatal  error C1083: 无法打开包括文件: “RenderCore/Shader.h”: No such file or directory
+  正在生成代码...
