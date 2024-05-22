@@ -1,7 +1,8 @@
 #pragma once
 #include <atomic>
-#include "HAL/Platform.h"
+#include "CoreTypes.h"
 #include "Definitions.h"
+#include "LogMacros.h"
 
 namespace UE::Logging::Private
 {

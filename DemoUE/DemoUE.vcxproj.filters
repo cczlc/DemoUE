@@ -48,6 +48,33 @@
     <ClInclude Include="Core\Public\Logging\LogMacros.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="Core\Public\Logging\LogVerbosity.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Core\Public\CoreTypes.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Core\Public\Containers\UnrealString.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Core\Public\Containers\ContainerAllocationPolicies.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Core\Public\HAL\UnrealMemory.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Core\Public\Windows\WindowsPlatformMemory.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Core\Public\Containers\GenericPlatformMemory.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Core\Public\HAL\MemoryBase.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Core\Public\Misc\Exec.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="RenderCore\Private\Shader.cpp">
@@ -60,6 +87,9 @@
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="Core\Private\Misc\CoreMisc.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Core\Private\Logging\LogVerbosity.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>

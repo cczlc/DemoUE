@@ -50,3 +50,21 @@ typedef FPlatformTypes::SSIZE_T SSIZE_T;
 typedef FPlatformTypes::TYPE_OF_NULL	TYPE_OF_NULL;
 /// The type of the C++ nullptr keyword.
 typedef FPlatformTypes::TYPE_OF_NULLPTR	TYPE_OF_NULLPTR;
+
+#if PLATFORM_WIDECHAR_IS_CHAR16
+#define WIDETEXT_PASTE(x)  UTF16TEXT_PASTE(x)
+#else
+#define WIDETEXT_PASTE(x)  L ## x
+#endif
+
+// If we don't have a platform-specific define for the TEXT macro, define it now.
+#if !defined(TEXT) && !UE_BUILD_DOCS
+#if PLATFORM_TCHAR_IS_UTF8CHAR
+#define TEXT_PASTE(x) UTF8TEXT(x)
+#else
+#define TEXT_PASTE(x) WIDETEXT(x)
+#endif
+#define TEXT(x) TEXT_PASTE(x)
+#endif
+
+#define WIDETEXT(str) WIDETEXT_PASTE(str)

@@ -1,6 +1,8 @@
 #pragma once
 #include "GenericPlatform/GenericPlatform.h"
 
+#define FORCEINLINE __forceinline									/* Force code to be inline */
+
 /**
 * Windows specific types
 **/

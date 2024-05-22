@@ -1,6 +1,6 @@
 #pragma once
 #include "Definitions.h"
-#include "HAL/Platform.h"
+#include "CoreTypes.h"
 
 /**
  * Ensures that current thread is during retrieval of vtable ptr of some

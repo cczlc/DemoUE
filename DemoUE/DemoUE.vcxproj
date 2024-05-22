@@ -143,19 +143,29 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="Core\Public\Containers\ContainerAllocationPolicies.h" />
+    <ClInclude Include="Core\Public\Containers\GenericPlatformMemory.h" />
+    <ClInclude Include="Core\Public\Containers\UnrealString.h" />
+    <ClInclude Include="Core\Public\CoreTypes.h" />
     <ClInclude Include="Core\Public\Definitions.h" />
     <ClInclude Include="Core\Public\GenericPlatform\GenericPlatform.h" />
     <ClInclude Include="Core\Public\GenericPlatform\GenericPlatformCompilerPreSetup.h" />
+    <ClInclude Include="Core\Public\HAL\MemoryBase.h" />
     <ClInclude Include="Core\Public\HAL\Platform.h" />
+    <ClInclude Include="Core\Public\HAL\UnrealMemory.h" />
     <ClInclude Include="Core\Public\Logging\LogMacros.h" />
+    <ClInclude Include="Core\Public\Logging\LogVerbosity.h" />
     <ClInclude Include="Core\Public\Misc\ConfigCacheIni.h" />
     <ClInclude Include="Core\Public\Misc\CoreGlobals.h" />
     <ClInclude Include="Core\Public\Misc\EnumClassFlags.h" />
+    <ClInclude Include="Core\Public\Misc\Exec.h" />
     <ClInclude Include="Core\Public\Windows\WindowsPlatform.h" />
+    <ClInclude Include="Core\Public\Windows\WindowsPlatformMemory.h" />
     <ClInclude Include="RenderCore\Public\Shader.h" />
     <ClInclude Include="RHI\Public\RHIShaderPlatform.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="Core\Private\Logging\LogVerbosity.cpp" />
     <ClCompile Include="Core\Private\Misc\ConfigCacheIni.cpp" />
     <ClCompile Include="Core\Private\Misc\CoreGlobals.cpp" />
     <ClCompile Include="Core\Private\Misc\CoreMisc.cpp" />
